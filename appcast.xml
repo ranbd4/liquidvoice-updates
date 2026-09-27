@@ -3,6 +3,15 @@
     <channel>
         <title>LiquidVoice</title>
         <item>
+            <title>2.5.0</title>
+            <pubDate>Sun, 27 Sep 2026 12:19:40 -0400</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>2.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/ranbd4/liquidvoice-updates/releases/download/v2.5.0/LiquidVoice_2.5.0.dmg" length="10660450" type="application/octet-stream" sparkle:edSignature="rjvJi6KN3WXBsuhql58gykStsHudAa2eNbdHpbvKOoOZ+hkNs6fIV0cjEsKbWytNhkyvL1dh2QtkJXEc4cGuBA=="/>
+        </item>
+        <item>
             <title>2.4.0</title>
             <pubDate>Wed, 29 Jul 2026 17:58:10 -0400</pubDate>
             <sparkle:version>12</sparkle:version>
@@ -23,19 +32,6 @@
                 <enclosure url="https://github.com/ranbd4/liquidvoice-updates/releases/download/v2.3.0/LiquidVoice11-10.delta" sparkle:deltaFrom="10" length="3465134" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CqHFpOBFcPZvQNeZ+EazuGHwP4VL98mg/71vh2IJugfeBbJbjNDqekyW7zYXb3VGuSuLYPP0TJgV3zPIA3dnAg=="/>
                 <enclosure url="https://github.com/ranbd4/liquidvoice-updates/releases/download/v2.3.0/LiquidVoice11-9.delta" sparkle:deltaFrom="9" length="3532094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jdbcW1WNTIsm0A0KKEr/FJxi6ria0LY6uiqH91g+Uqkbr+yHkjKKjVk7RfBBYfaV/bN61m+YATr1JPllHTMIAg=="/>
                 <enclosure url="https://github.com/ranbd4/liquidvoice-updates/releases/download/v2.3.0/LiquidVoice11-8.delta" sparkle:deltaFrom="8" length="3569714" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="b01WuEzppdhKilkjd6pJk1S1LqbTYrqxyFj+anh8eF63dYY0ydGYpOfa7Uqkz4nhE1s/QImB2syqo0rl/C0NDw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>2.2.0</title>
-            <pubDate>Sun, 01 Mar 2026 13:33:09 -0500</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>2.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ranbd4/liquidvoice-updates/releases/download/v2.3.0/LiquidVoice_2.2.0.dmg" length="10601607" type="application/octet-stream" sparkle:edSignature="itPE8bglZ+RXMi4GCbYTJpPn4Tm7wVAYiScwwlr1cVXZwzhhWcCZQZI2xVLTaCB+fQGGIenhVdyYEjYiPX5GAw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/ranbd4/liquidvoice-updates/releases/download/v2.2.0/LiquidVoice10-9.delta" sparkle:deltaFrom="9" length="452794" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0rqrT6pdHXSwdAd2NwzSn5drzgaN0f1O9blk4cCTtOu+ZkopHqxmBk7PDINlbCcwIMIi5guttWfFHnXw6ZhvBA=="/>
-                <enclosure url="https://github.com/ranbd4/liquidvoice-updates/releases/download/v2.2.0/LiquidVoice10-8.delta" sparkle:deltaFrom="8" length="541134" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5QRvH1gN7vCH92j9aHKuY2uK7qpa+LVOhZwTXNKOVouOS6NJM9Hqd6ZCW6/RrHiE2yudqtl7QzH8J+Zg5P2HBA=="/>
             </sparkle:deltas>
         </item>
     </channel>

@@ -3,6 +3,15 @@
     <channel>
         <title>LiquidVoice</title>
         <item>
+            <title>2.6.0</title>
+            <pubDate>Mon, 09 Nov 2026 01:50:56 -0500</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>2.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/ranbd4/liquidvoice-updates/releases/download/v2.6.0/LiquidVoice_2.6.0.dmg" length="10733009" type="application/octet-stream" sparkle:edSignature="mE6X4kNLVpG3z9TFrrJDQainYlm/o5Id/R6tAxrp/t2eL70XI4Kp7JCDjMy8yAUUxNj1NJ4m4x0Y7MdYQsvdAw=="/>
+        </item>
+        <item>
             <title>2.5.1</title>
             <pubDate>Mon, 28 Sep 2026 16:52:15 -0400</pubDate>
             <sparkle:version>14</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/ranbd4/liquidvoice-updates/releases/download/v2.5.0/LiquidVoice_2.5.0.dmg" length="10660450" type="application/octet-stream" sparkle:edSignature="rjvJi6KN3WXBsuhql58gykStsHudAa2eNbdHpbvKOoOZ+hkNs6fIV0cjEsKbWytNhkyvL1dh2QtkJXEc4cGuBA=="/>
-        </item>
-        <item>
-            <title>2.4.0</title>
-            <pubDate>Wed, 29 Jul 2026 17:58:10 -0400</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>2.4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ranbd4/liquidvoice-updates/releases/download/v2.4.0/LiquidVoice_2.4.0.dmg" length="10611302" type="application/octet-stream" sparkle:edSignature="eLJtInergXxO68x0MQylAUCMcmCst5cmwM5pXc4ROewQd6x6TZ0jZY0s4nH1wg/lh/mF2YpQ4MJhe/EBYSPkAQ=="/>
         </item>
     </channel>
 </rss>
